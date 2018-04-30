@@ -1,0 +1,37 @@
+html{
+  text-align: center;
+  background-color: black;
+}
+#seven{
+  text-align: right;
+  color: gray;
+}
+#two{
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+#ten{
+  color: aquamarine;
+}
+#four{
+font-family: verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+}
+#lll{
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+#six{
+  font-family: verdana;
+  font-size: 42px;
+  color: white;
+
+}
+#ooo{
+  color: aquamarine;
+}
